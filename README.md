@@ -10,7 +10,7 @@ Este proyecto es una aplicación web para la venta de entradas.
 ## Tecnologías Utilizadas
 
 - **Backend:** C# ASP.NET Core 8 API Rest
-- **Frontend:** React.js
+- **Frontend:** Angular.js
 - **Base de Datos:** SQL Server
 - **Docker:** La aplicación está preparada para ejecutarse en contenedores Docker.
 - **Arquitectura:** Clean Architecture
