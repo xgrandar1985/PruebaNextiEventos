@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaNexTiVentaEntrada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19c8b9a2f884f37132ef9bdbc0ab0ee2bc4d6412")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaNexTiVentaEntrada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaNexTiVentaEntrada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

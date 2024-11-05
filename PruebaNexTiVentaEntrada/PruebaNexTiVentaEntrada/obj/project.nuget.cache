@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9RB9lXHp4oFINJDWVNsFSsF+5AZ8+kHXT4DmOQOyQEaESLyoM75GNm/pJLxpLhc6ezsD8bJlitG5fWxvcAn1/Q==",
+  "dgSpecHash": "LsynwBN16nvk2rL1fJd7bWcnXCaNIP7Ab/dnqFwBsU2zoToNr/1xi10ut9tMk9L4SYG6YBxaSDtX04VUn8VBkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj",
+  "projectFilePath": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xavier\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\xavier\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

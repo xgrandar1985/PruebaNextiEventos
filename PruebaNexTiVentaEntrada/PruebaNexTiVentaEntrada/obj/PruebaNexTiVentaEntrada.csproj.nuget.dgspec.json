@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj": {}
+    "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj": {
+    "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj",
+        "projectUniqueName": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj",
         "projectName": "PruebaNexTiVentaEntrada",
-        "projectPath": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj",
+        "projectPath": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj",
         "packagesPath": "C:\\Users\\xavier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\obj\\",
+        "outputPath": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xavier\\AppData\\Roaming\\NuGet\\NuGet.Config",

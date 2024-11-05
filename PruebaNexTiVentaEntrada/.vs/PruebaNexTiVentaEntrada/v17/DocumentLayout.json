@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\",
+  "WorkspaceRootPath": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|c:\\users\\xavier\\source\\repos\\pruebanextiventaentrada\\pruebanextiventaentrada\\repositorios\\implemetacion\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|solutionrelative:pruebanextiventaentrada\\repositorios\\implemetacion\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|c:\\users\\xavier\\source\\repos\\pruebanextiventaentrada\\pruebanextiventaentrada\\repositorios\\contrato\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|c:\\tareanexti\\pruebanextiventaentrada\\pruebanextiventaentrada\\repositorios\\contrato\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|solutionrelative:pruebanextiventaentrada\\repositorios\\contrato\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|c:\\users\\xavier\\source\\repos\\pruebanextiventaentrada\\pruebanextiventaentrada\\infraestructura\\persistencia\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|c:\\tareanexti\\pruebanextiventaentrada\\pruebanextiventaentrada\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|solutionrelative:pruebanextiventaentrada\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|c:\\tareanexti\\pruebanextiventaentrada\\pruebanextiventaentrada\\infraestructura\\persistencia\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|solutionrelative:pruebanextiventaentrada\\infraestructura\\persistencia\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|c:\\users\\xavier\\source\\repos\\pruebanextiventaentrada\\pruebanextiventaentrada\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|solutionrelative:pruebanextiventaentrada\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|c:\\tareanexti\\pruebanextiventaentrada\\pruebanextiventaentrada\\repositorios\\implemetacion\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|solutionrelative:pruebanextiventaentrada\\repositorios\\implemetacion\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|c:\\tareanexti\\pruebanextiventaentrada\\pruebanextiventaentrada\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F37CEE-B549-4216-A71B-90163714D284}|PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada.csproj|solutionrelative:pruebanextiventaentrada\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "PruebaNexTiVentaEntrada\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "PruebaNexTiVentaEntrada\\Controllers\\EventoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:23:50.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Repositorios\\Implemetacion\\EventoRepository.cs",
+              "DocumentMoniker": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Repositorios\\Implemetacion\\EventoRepository.cs",
               "RelativeDocumentMoniker": "PruebaNexTiVentaEntrada\\Repositorios\\Implemetacion\\EventoRepository.cs",
-              "ToolTip": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Repositorios\\Implemetacion\\EventoRepository.cs",
+              "ToolTip": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Repositorios\\Implemetacion\\EventoRepository.cs",
               "RelativeToolTip": "PruebaNexTiVentaEntrada\\Repositorios\\Implemetacion\\EventoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAzAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAIwIIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T15:20:51.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IEventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Repositorios\\Contrato\\IEventoRepository.cs",
+              "DocumentMoniker": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Repositorios\\Contrato\\IEventoRepository.cs",
               "RelativeDocumentMoniker": "PruebaNexTiVentaEntrada\\Repositorios\\Contrato\\IEventoRepository.cs",
-              "ToolTip": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Repositorios\\Contrato\\IEventoRepository.cs",
+              "ToolTip": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Repositorios\\Contrato\\IEventoRepository.cs",
               "RelativeToolTip": "PruebaNexTiVentaEntrada\\Repositorios\\Contrato\\IEventoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T15:17:05.805Z",
               "EditorCaption": ""
@@ -58,9 +75,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Infraestructura\\Persistencia\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Infraestructura\\Persistencia\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PruebaNexTiVentaEntrada\\Infraestructura\\Persistencia\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Infraestructura\\Persistencia\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Infraestructura\\Persistencia\\ApplicationDbContext.cs",
               "RelativeToolTip": "PruebaNexTiVentaEntrada\\Infraestructura\\Persistencia\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAjwBMAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Evento.cs",
-              "DocumentMoniker": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Modelos\\Evento.cs",
+              "DocumentMoniker": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Modelos\\Evento.cs",
               "RelativeDocumentMoniker": "PruebaNexTiVentaEntrada\\Modelos\\Evento.cs",
-              "ToolTip": "C:\\Users\\xavier\\source\\repos\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Modelos\\Evento.cs",
+              "ToolTip": "C:\\TareaNexti\\PruebaNexTiVentaEntrada\\PruebaNexTiVentaEntrada\\Modelos\\Evento.cs",
               "RelativeToolTip": "PruebaNexTiVentaEntrada\\Modelos\\Evento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T15:07:55.625Z",
               "EditorCaption": ""

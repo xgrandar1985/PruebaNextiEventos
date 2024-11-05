@@ -9,5 +9,7 @@ namespace PruebaNexTiVentaEntrada.Repositorios.Contrato
         Task AddEvento(Evento nuevoEvento);
         Task UpdateEvento(Evento eventToUpdate);
         Task DeleteEvento(int id);
+        Task<IEnumerable<Evento>> GetAllEventosBySP();
+        Task AddEventoBySp(Evento evento);
     }
 }

@@ -58,5 +58,19 @@ namespace PruebaNexTiVentaEntrada.Controllers
             await _eventoRepository.DeleteEvento(id);
             return NoContent();
         }
+
+        [HttpGet("optener-eventos-por-sp")]
+        public async Task<ActionResult<IEnumerable<Evento>>> GetAllEventosBySP()
+        {
+            var eventos = await _eventoRepository.GetAllEventosBySP();
+            return Ok(eventos);
+        }
+
+        [HttpPost("crear-evento-por-sp")]
+        public async Task<ActionResult<Evento>> PostEvento(Evento evento)
+        {
+            await _eventoRepository.AddEventoBySp(evento);
+            return CreatedAtAction(nameof(GetEvento), new { id = evento.Id }, evento);
+        }
     }
 }
